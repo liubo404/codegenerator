@@ -1,0 +1,10 @@
+codegenerator\def\TableConvert.class
+codegenerator\def\FtlDef.class
+codegenerator\ColumnData.class
+code\CodeUtil.class
+codegenerator\CreateBean.class
+codegenerator\def\ConvertDef.class
+codegenerator\CodeGenerateFactory.class
+codegenerator\CommonPageParser.class
+codegenerator\def\CodeResourceUtil.class
+codegenerator\WolfXmlUtil.class
